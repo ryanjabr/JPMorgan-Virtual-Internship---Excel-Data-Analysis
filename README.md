@@ -14,4 +14,4 @@ Created a PowerPoint Presentation to communicated key insights. The recommendati
   
 - Close the underperforming accounts and launch efforts to identify the highest potential online retailers accounts for increased sales and marketing investment.
 
- Powerpoint Presenattion : 
+ Powerpoint Presenattion : [https://github.com/ryanjabr/JPMorgan-Virtual-Internship---Excel-Data-Analysis/blob/main/Data%20Driven%20Sales%20Analysis%20-%20JPMorgan.pptx]
