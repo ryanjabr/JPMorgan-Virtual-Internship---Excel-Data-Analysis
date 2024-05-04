@@ -2,7 +2,7 @@
 
 This virtual internship was under JP Morgan Chase and Co. on Excel Skills by Forage.
 
-## Problem Statment
+## Problem Statement
 
 The Sales Team wants to know how their unit sales are doing and how can they improve.
 
